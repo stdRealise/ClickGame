@@ -1,0 +1,1 @@
+C:\Users\popov\Desktop\unity_start\ClickGame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\z376u5k4\obj\arm64-v8a

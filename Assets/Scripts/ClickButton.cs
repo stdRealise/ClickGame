@@ -7,7 +7,7 @@ public class ClickButtonController : MonoBehaviour
     [SerializeField] private Button _button;
     [SerializeField] private Image _image;
 
-    public void Initiaize(Sprite sprite, ColorBlock colorBlock)
+    public void Initialize(Sprite sprite, ColorBlock colorBlock)
     {
         _image.sprite = sprite;
         _button.colors = colorBlock;
