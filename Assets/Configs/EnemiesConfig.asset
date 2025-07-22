@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a99f1ac82e98d4fb1b437701b702c7, type: 3}
+  m_Name: EnemiesConfig
+  m_EditorClassIdentifier: 
+  EnemyPrefab: {fileID: 7844569672407171245, guid: bb5502f7895a98a4091cb87d464397b4, type: 3}
+  Enemies:
+  - Id: energy
+    Sprite: {fileID: -5564248608999137188, guid: 679205ec9b4510a459ec7e7ad9c2a33f, type: 3}
+    DamageType: 1
+  - Id: energy2
+    Sprite: {fileID: 5698249772102137946, guid: 9d35b30199e52ba43930c68a19629adf, type: 3}
+    DamageType: 2
+  - Id: energy3
+    Sprite: {fileID: 7754015998714534987, guid: bfe633322d03bd44fa007addb62ca7f6, type: 3}
+    DamageType: 0
+  - Id: grif
+    Sprite: {fileID: 6098731123651680309, guid: dc8aaf9e98ae4594bad0b8459ed9f8da, type: 3}
+    DamageType: 0
+  - Id: centipede
+    Sprite: {fileID: -9044629559978073560, guid: 27b9c75c5b4551643aa0be36294efc2b, type: 3}
+    DamageType: 0
+  - Id: marabou
+    Sprite: {fileID: -4613756324714807425, guid: 20c6bda055d9ba640bd7280e873daa37, type: 3}
+    DamageType: 0
